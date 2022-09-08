@@ -1,0 +1,6 @@
+{
+    "name": "lily-player",
+    "ccmodHumanName": "Playable Lily",
+    "version": "1.0.0",
+    "prestart": "prestart.js"
+}
